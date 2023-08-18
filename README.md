@@ -1,6 +1,4 @@
-# Project Title
-
-Improve scalability for Amazon Rekognition stateless APIs using multiple regions 
+# Improve scalability for Amazon Rekognition stateless APIs using multiple regions 
 
 ## Description
 
